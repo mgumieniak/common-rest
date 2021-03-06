@@ -7,6 +7,6 @@ class Test2Test {
 
     @Test
     public void test(){
-        new Test2("1","2");
+        new Test2("1","2", "id3");
     }
 }

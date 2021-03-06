@@ -6,4 +6,5 @@ import lombok.Value;
 public class Test2 {
     String id;
     String id2;
+    String id3;
 }
